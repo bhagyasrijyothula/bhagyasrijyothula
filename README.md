@@ -104,15 +104,6 @@ Here are some of the key projects I have built, spanning data analytics, automat
 - **Tech Stack:** Python FastAPI, Supabase, Google Gemini, HTML/CSS/JS, Render CI/CD
 - **Key Outcome:** Implemented smart intent detection to optimize API token usage and personalized 7–30 day adaptive roadmaps.
 
-### 📊 [Automated Task Tracker](https://github.com/bhagyasrijyothula)
-*End-to-end task management system with automated notifications and real-time dashboard reporting.*
-- **Tech Stack:** SharePoint Lists, Power Automate, Excel, Power BI
-- **Key Outcome:** Achieved a **60% reduction** in manual data entry and improved on-time project delivery with automated alerts.
-
-### 🏥 [Hospital Management System](https://github.com/bhagyasrijyothula)
-*Patient workflow and data tracking platform with automated operations reporting and clinical analytics.*
-- **Tech Stack:** SharePoint Lists, Excel, Power Automate, Power BI
-- **Key Outcome:** Centralized patient records, automated appointment reminders, and built a comprehensive operational dashboard.
 
 ### 🧪 [Syntax Lab](https://syntaxlab-5.web.app/)
 *AI-powered web tool that processes user prompts and generates intelligent responses via Google AI Studio.*
@@ -166,29 +157,15 @@ Here are some of the key projects I have built, spanning data analytics, automat
 
 ---
 
-## 🏆 Key Certifications & Achievements
+## 🏆 Key Certifications
 
-I am committed to continuous learning and have earned credentials across data engineering, cloud analytics, low-code platforms, and AI.
+I am committed to continuous learning and have earned credentials across data engineering, cloud analytics, and low-code platforms.
 
-### ❄️ Data & Cloud Engineering
 - **Snowflake SnowPro Associate** (Snowflake)
 - **Oracle Cloud Infrastructure — Data Science Professional** (Oracle)
 - **Google Cloud Data Analytics** (Google Cloud)
-- **Big Data Computing** (NPTEL)
-
-### ⚡ Power Platform & Automation
 - **PL-600: Microsoft Power Platform Solution Architect** (Microsoft)
 - **Microsoft Certified: Power Platform Developer Associate** (Microsoft)
-- **UiPath Automation Business Analyst Training** (UiPath)
-
-### 🤖 Data Science & AI (Dataiku)
-- **Generative AI Practitioner Certificate** (Dataiku)
-- **ML & MLOps Practitioner Certificates** (Dataiku)
-- **Advanced & Core Designer Certificates** (Dataiku)
-
-### 💻 Coding Profiles
-- **LeetCode:** 120+ Problems Solved (100-Day Coding Streak)
-- **CodeChef & HackerRank:** Certified in Python & SQL
 
 ---
 
