@@ -120,23 +120,7 @@ I'm a **Data Specialist** with **1+ year of hands-on experience** bridging the g
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagyasrijyothula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" height="195" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyasrijyothula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=335" height="195" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhagyasrijyothula&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" width="700"/>
-</p>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagyasrijyothula&theme=onedark&no-frame=false&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhagyasrijyothula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" alt="GitHub Stats"/>
 </p>
 
 ---
